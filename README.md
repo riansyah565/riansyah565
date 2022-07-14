@@ -1,7 +1,7 @@
 <h1 align="center">اسلام ءليكم <br></h1>
 <p align="center">
 
-<img src="https://telegra.ph/file/47da693fc6e46927aa92e.jpg" />
+<img src="https://telegra.ph/file/47da693fc6" />
 </p>
 
 <p align="center">
